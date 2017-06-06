@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ZBottomBar">
+        <attr name="selectedcolor" format="reference|color"/>
+        <attr name="normalcolor" format="reference|color"/>
+        <attr name="bgcolor" format="color"/>
+        <attr name="bgdrawable" format="reference"/>
+        <attr name="isanim" format="boolean"/>
+    </declare-styleable>
+
+</resources>

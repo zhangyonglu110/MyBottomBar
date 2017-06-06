@@ -1,4 +1,4 @@
-package com.nxt.btmbar.app;
+package com.nxt.bottombar.app;
 
 import android.content.Context;
 import android.util.DisplayMetrics;

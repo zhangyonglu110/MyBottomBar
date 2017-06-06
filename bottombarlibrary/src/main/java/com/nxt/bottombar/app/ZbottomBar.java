@@ -1,4 +1,4 @@
-package com.nxt.btmbar.app;
+package com.nxt.bottombar.app;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -111,7 +111,7 @@ public class ZbottomBar extends LinearLayout {
 
         });
     }
-    interface OnItemSelectedListener{
+    public interface OnItemSelectedListener{
         void onitemselected(View view,int position);
     }
     public void setOnitemSelectedListener(OnItemSelectedListener onitemselectedlisterner){
